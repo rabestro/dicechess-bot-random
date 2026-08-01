@@ -6,7 +6,7 @@
  * `Retry-After` handling, and a hook to refresh the token on `401`). Game logic stays
  * out of here: your bot picks moves; this client just moves bytes.
  *
- * Full API reference: https://rabestro.github.io/dicechess-play-api/
+ * Full API reference: https://bots.jc.id.lv/
  */
 
 export const DEFAULT_BASE_URL = 'https://play-api.jc.id.lv';
